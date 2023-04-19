@@ -8,3 +8,4 @@ I designed based on  the Snowflake Scema As the Database Has Sub dimensions as i
 Besically I Divided the Data Base into 1 Fact Table (Orders) and 4 Dimensions tables (customers , Rota , Adress ,item)
 then Each Dimensions has its Sub dimensions for More efficiency in retrieving data  
 
+I Used Quick DBD For easily Designing the ERD And To Change it according to the Client Requirements then Excuted in Sql Server 
